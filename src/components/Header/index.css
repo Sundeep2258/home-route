@@ -1,0 +1,10 @@
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  list-style-type: none;
+  margin: 5px;
+}
